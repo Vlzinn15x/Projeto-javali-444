@@ -5,6 +5,7 @@
 
 body{
     font-family: sans-serif;
+    background-color: black;
 }
 .container{
     display: flex;
@@ -14,10 +15,11 @@ body{
     gap: 80px;
 }
 img{
-    width: 700px;
-    height: 700px;
+    width: 650px;
+    height: 1000px;
 }
 .texto{
     margin-top: 40;
     gap: 80px;
+    color: brown;
 }
